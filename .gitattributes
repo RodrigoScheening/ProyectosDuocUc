@@ -1,2 +1,72 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+        
+<head>
+    <meta charset="UTF-8">
+            <title id="titulo">Fenrir's Games</title>
+    <style>
+        body {
+            background-image: url('https://c4.wallpaperflare.com/wallpaper/434/801/85/lenovo-legion-5-hd-wallpaper-preview.jpg');
+            
+            
+            color: white; text-align: center;
+            font-size: 25px;
+        }
+        #titulo {
+            background: rgb(0, 0, 0); color: rgba(255, 255, 255, 0.879);font-size: 25px;height: 30px; margin: 0 auto; border-radius: 50px; border: 10px solid rgb(108, 101, 101); text-align: center;font-style: oblique; 
+        }
+        #Derechos{
+            text-align: center;
+        }
+        
+        
+    </style>
+</head>
+<body >
+    
+    <div id="titulo">Fenrir's Games<i></i></div>
+    <div style="position:relative">
+            <img src="forhonor.jpg" alt="imagen 1 " width="1500" height="400" />
+            <div style="position: absolute;top:50%;left:13%;transform:translate(-50%,-50%);"><img src="fenrir-mascot-logo-template_97300-190 (1).avif" alt="logo" widht="900" height="240"></div>
+            <div style="position:absolute;top:23%;left:50%;transform:translate(-50%,-50%);color:rgb(219, 148, 15);font-size:45px;font-variant: small-caps;">Todos los juegos que buscas al mejor precio</div>
+            <div style="position:absolute;top:83%;left:50%;transform:translate(-50%,-50%);color:rgb(255, 255, 255);font-size:50px;font-variant: small-caps;">Categorias</div>
+    
+    </div>
+    <div>
+        
+            
+                
+                
+            
+                <table  cellpadding="17" cellspacing="17">
+                    <tr>
+                      
+                    </tr>
+                    <tr>
+                        <td><a href="#"><p style="position:absolute;top:103%;left:17%;transform:translate(-50%,-50%);color: aliceblue;">Acción</p><image src="https://as01.epimg.net/meristation/imagenes/2018/11/16/reportajes/1542333181_594434_1542378922_noticia_normal.jpg" alt="imagen de accion" widht="250" height="250"/> </a></td>
+                        <td><a href="#"><p style="position:absolute;top:103%;left:49%;transform:translate(-50%,-50%);color: aliceblue;">Mundo Abierto</p><image src="https://media.vandal.net/m/5-2021/20215211264755_1.jpg" alt="imagen de terror" widht="250" height="250"/></a></td>
+                        <td><a href="#"> <p style="position:absolute;top:103%;left:82%;transform:translate(-50%,-50%);color: aliceblue;">Supervivencia</p><image src="https://media.vandal.net/m/1-2021/202112117592770_1.jpg" alt="imagen de terror" widht="250" height="250"/></a></td>
+
+                    </tr>
+                    <tr>
+                      <td><a href="#"><p style="position:absolute;top:144%;left:17%;transform:translate(-50%,-50%);color: aliceblue;">Terror</p><image src="https://media.vandal.net/m/6-2021/20216718185311_1.jpg" alt="imagen de terror" widht="250" height="250"/></a></td>
+                      <td><a href="#"><p style="position:absolute;top:144%;left:50%;transform:translate(-50%,-50%);color: aliceblue;">Carreras</p><image src="https://media.vandal.net/m/3-2022/20223916582699_1.jpg" alt="imagen de carreras" widht="250" height="250" /></a></td>
+                    </tr>
+                  </table> 
+                
+            
+        
+    </div>
+    
+    <footer>
+        <div id="Derechos">
+            <p>
+               @Todos los Derechos Reseservados 2023
+            </p>
+            
+        </div>
+    </footer>
+
+</body>
+
+    </html>
